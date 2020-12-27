@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (2 weeks ago)
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (3 weeks ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (3 weeks ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (2 months ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (3 months ago)
@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.0](https://github.com/buildkite/charts/releases/tag/v0.5.0), 2 weeks ago) - Buildkite Helm Charts repository
-- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 2 weeks ago) - Containerize template for Laravel.
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 3 weeks ago) - Containerize template for Laravel.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 3 weeks ago) - Containerize template for Symfony.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.0.3](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.0.3), 2 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.1](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.1), 3 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
