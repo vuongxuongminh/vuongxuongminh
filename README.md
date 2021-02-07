@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), today) - Package provide simple way to run code asynchronously for your Laravel application.
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 2 weeks ago) - Buildkite Helm Charts repository
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 2 months ago) - Containerize template for Laravel.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 2 months ago) - Containerize template for Symfony.
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.0.3](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.0.3), 3 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.1](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.1), 4 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 6 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) ([1.0.2](https://github.com/phpviet/omnipay-vnpay/releases/tag/1.0.2), 7 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay.
