@@ -32,7 +32,7 @@
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 3 weeks ago) - Buildkite Helm Charts repository
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 2 months ago) - Containerize template for Laravel.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 2 months ago) - Containerize template for Symfony.
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.1](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.1), 4 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.1](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.1), 5 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 6 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) ([1.0.2](https://github.com/phpviet/omnipay-vnpay/releases/tag/1.0.2), 7 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay.
 - [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) ([1.0.5](https://github.com/phpviet/laravel-validation/releases/tag/1.0.5), 7 months ago) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework.
