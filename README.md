@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (4 weeks ago)
-- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (4 weeks ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 month ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (3 months ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (5 months ago)
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay. (7 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 4 weeks ago) - Package provide simple way to run code asynchronously for your Laravel application.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 1 month ago) - Buildkite Helm Charts repository
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 3 months ago) - Containerize template for Laravel.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 3 months ago) - Containerize template for Symfony.
