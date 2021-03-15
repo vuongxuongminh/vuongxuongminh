@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (today)
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), today) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 1 day ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 1 month ago) - Buildkite Helm Charts repository
