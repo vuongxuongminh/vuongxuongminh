@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (6 days ago)
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 6 days ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 1 week ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 1 month ago) - Buildkite Helm Charts repository
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 3 months ago) - Containerize template for Laravel.
@@ -37,4 +37,4 @@
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 7 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) ([1.0.2](https://github.com/phpviet/omnipay-vnpay/releases/tag/1.0.2), 8 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay.
 - [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) ([1.0.5](https://github.com/phpviet/laravel-validation/releases/tag/1.0.5), 8 months ago) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework.
-- [vuongxuongminh/yii2-mfa](https://github.com/vuongxuongminh/yii2-mfa) ([1.0.1](https://github.com/vuongxuongminh/yii2-mfa/releases/tag/1.0.1), 8 months ago) - Support implementing multi factor authenticate for Yii2 user component.
+- [vuongxuongminh/yii2-mfa](https://github.com/vuongxuongminh/yii2-mfa) ([1.0.1](https://github.com/vuongxuongminh/yii2-mfa/releases/tag/1.0.1), 9 months ago) - Support implementing multi factor authenticate for Yii2 user component.
