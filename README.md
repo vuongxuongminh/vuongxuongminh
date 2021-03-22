@@ -10,7 +10,7 @@
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay. (7 months ago)
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository (7 months ago)
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay. (8 months ago)
-- [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework. (8 months ago)
+- [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework. (9 months ago)
 - [vuongxuongminh/yii2-mfa](https://github.com/vuongxuongminh/yii2-mfa) - Support implementing multi factor authenticate for Yii2 user component. (9 months ago)
 
 #### 🌱 My latest projects
@@ -36,5 +36,5 @@
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 3 months ago) - Containerize template for Symfony.
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 7 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) ([1.0.2](https://github.com/phpviet/omnipay-vnpay/releases/tag/1.0.2), 8 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay.
-- [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) ([1.0.5](https://github.com/phpviet/laravel-validation/releases/tag/1.0.5), 8 months ago) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework.
+- [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) ([1.0.5](https://github.com/phpviet/laravel-validation/releases/tag/1.0.5), 9 months ago) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework.
 - [vuongxuongminh/yii2-mfa](https://github.com/vuongxuongminh/yii2-mfa) ([1.0.1](https://github.com/vuongxuongminh/yii2-mfa/releases/tag/1.0.1), 9 months ago) - Support implementing multi factor authenticate for Yii2 user component.
