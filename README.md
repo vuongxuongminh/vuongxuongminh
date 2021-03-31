@@ -6,7 +6,7 @@
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 month ago)
-- [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (3 months ago)
+- [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (4 months ago)
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay. (7 months ago)
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository (7 months ago)
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay. (8 months ago)
@@ -33,7 +33,7 @@
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.1](https://github.com/buildkite/charts/releases/tag/v0.5.1), 2 months ago) - Buildkite Helm Charts repository
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 3 months ago) - Containerize template for Laravel.
-- [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 3 months ago) - Containerize template for Symfony.
+- [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 4 months ago) - Containerize template for Symfony.
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 7 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) ([1.0.2](https://github.com/phpviet/omnipay-vnpay/releases/tag/1.0.2), 8 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay.
 - [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) ([1.0.5](https://github.com/phpviet/laravel-validation/releases/tag/1.0.5), 9 months ago) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework.
