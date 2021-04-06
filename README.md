@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 3 days ago) - Buildkite Helm Charts repository
+- [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 4 days ago) - Buildkite Helm Charts repository
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 3 weeks ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.3](https://github.com/api-platform/core/releases/tag/v2.6.3), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v1.1.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v1.1.0), 4 months ago) - Containerize template for Laravel.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v2.1.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v2.1.1), 4 months ago) - Containerize template for Symfony.
