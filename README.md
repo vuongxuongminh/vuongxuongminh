@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 1 week ago) - Buildkite Helm Charts repository
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 1 month ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 2 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
