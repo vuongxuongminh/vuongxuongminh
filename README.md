@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (today)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (6 days ago)
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (6 days ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (1 week ago)
@@ -11,7 +12,6 @@
 - [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay. (9 months ago)
 - [buildkite/charts](https://github.com/buildkite/charts) - Buildkite Helm Charts repository (9 months ago)
 - [phpviet/omnipay-vnpay](https://github.com/phpviet/omnipay-vnpay) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán VNPay. (10 months ago)
-- [phpviet/laravel-validation](https://github.com/phpviet/laravel-validation) - :dizzy: Package hổ trợ tích hợp validation dành riêng cho Laravel framework. (10 months ago)
 
 #### 🌱 My latest projects
 
