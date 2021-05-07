@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony.
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel.
@@ -24,7 +25,6 @@
 - [vuongxuongminh/yii2-async](https://github.com/vuongxuongminh/yii2-async) - Provide an easy way to run code asynchronous and parallel for Yii2 application
 - [vuongxuongminh/yii2-mobile-first](https://github.com/vuongxuongminh/yii2-mobile-first) - Support implementing mobile-first principle for Yii2 application.
 - [vuongxuongminh/yii2-js-params](https://github.com/vuongxuongminh/yii2-js-params) - Provide an easy way to passed variables from your server to the JavaScript in rendering process of Yii2 view component.
-- [vuongxuongminh/yii2-searchable](https://github.com/vuongxuongminh/yii2-searchable) - Provide simple full-text search for Yii2 Active Record.
 
 #### 🔭 Latest releases I've contributed to
 
