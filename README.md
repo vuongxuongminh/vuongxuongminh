@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (1 day ago)
+- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (2 days ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 week ago)
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (1 week ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (1 week ago)
@@ -31,7 +31,7 @@
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 1 week ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 1 week ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v3.0.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v3.0.1), 1 week ago) - Containerize template for Symfony.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 1 month ago) - Buildkite Helm Charts repository
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 1 month ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 3 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
