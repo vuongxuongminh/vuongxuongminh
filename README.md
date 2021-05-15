@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (4 days ago)
-- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (1 week ago)
-- [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (1 week ago)
+- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (5 days ago)
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (2 weeks ago)
+- [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (2 weeks ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (2 weeks ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (2 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 1 week ago) - Containerize template for Laravel.
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 2 weeks ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 2 weeks ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v3.0.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v3.0.1), 2 weeks ago) - Containerize template for Symfony.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.4](https://github.com/api-platform/core/releases/tag/v2.6.4), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
