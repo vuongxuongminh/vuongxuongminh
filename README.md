@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [vuongxuongminh/istio-security](https://github.com/vuongxuongminh/istio-security) - 
+- [vuongxuongminh/istio-security-bundle](https://github.com/vuongxuongminh/istio-security-bundle) - 
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony.
