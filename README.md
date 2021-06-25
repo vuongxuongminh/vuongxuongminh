@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy. (today)
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy. (1 day ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (1 month ago)
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), today) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy.
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 1 day ago) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), 1 month ago) - Server-sent live updates: protocol and reference implementation
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 1 month ago) - Containerize template for Laravel.
