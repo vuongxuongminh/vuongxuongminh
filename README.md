@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy. (2 days ago)
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio Envoy proxy. (today)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (2 weeks ago)
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (1 month ago)
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (1 month ago)
