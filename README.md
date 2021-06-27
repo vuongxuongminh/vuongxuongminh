@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.0), today) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 3 days ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), 1 month ago) - Server-sent live updates: protocol and reference implementation
@@ -37,4 +38,3 @@
 - [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 2 months ago) - Buildkite Helm Charts repository
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 3 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.1.0), 4 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
-- [phpviet/omnipay-onepay](https://github.com/phpviet/omnipay-onepay) ([1.0.2](https://github.com/phpviet/omnipay-onepay/releases/tag/1.0.2), 10 months ago) - :moneybag: Thư viện hổ trợ tích hợp cổng thanh toán OnePay.
