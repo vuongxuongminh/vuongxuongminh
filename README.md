@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (today)
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 days ago)
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 days ago)
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (1 day ago)
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (4 days ago)
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (4 days ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (3 weeks ago)
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (1 month ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), today) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 3 days ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), 1 day ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 4 days ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 1 week ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.11.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.11.3), 1 month ago) - Server-sent live updates: protocol and reference implementation
