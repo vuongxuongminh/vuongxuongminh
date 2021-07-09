@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle for handling Hasura action &amp; event trigger requests.
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony.
@@ -24,7 +25,6 @@
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application.
 - [vuongxuongminh/yii2-async](https://github.com/vuongxuongminh/yii2-async) - Provide an easy way to run code asynchronous and parallel for Yii2 application
 - [vuongxuongminh/yii2-mobile-first](https://github.com/vuongxuongminh/yii2-mobile-first) - Support implementing mobile-first principle for Yii2 application.
-- [vuongxuongminh/yii2-js-params](https://github.com/vuongxuongminh/yii2-js-params) - Provide an easy way to passed variables from your server to the JavaScript in rendering process of Yii2 view component.
 
 #### 🔭 Latest releases I've contributed to
 
