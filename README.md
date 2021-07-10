@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle for handling Hasura action &amp; event trigger requests. (today)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (1 week ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (1 week ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 week ago)
@@ -11,7 +12,6 @@
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (2 months ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (2 months ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (3 months ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
 
 #### 🌱 My latest projects
 
