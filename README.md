@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle to help handle Hasura action &amp; event. (today)
+- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle to help handle Hasura action &amp; event. (1 day ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 weeks ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 weeks ago)
@@ -31,7 +31,7 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), 3 weeks ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 3 weeks ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 4 weeks ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 1 month ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 2 months ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 2 months ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
