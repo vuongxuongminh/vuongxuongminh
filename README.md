@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle to help handle Hasura action &amp; event. (3 days ago)
+- [hasura-extra/core-bundle](https://github.com/hasura-extra/core-bundle) - Symfony bundle to help handle Hasura action &amp; event. (3 days ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 weeks ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 weeks ago)
@@ -15,7 +15,6 @@
 
 #### 🌱 My latest projects
 
-- [vuongxuongminh/hasura-bundle](https://github.com/vuongxuongminh/hasura-bundle) - Symfony bundle to help handle Hasura action &amp; event.
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony.
@@ -25,6 +24,7 @@
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application.
 - [vuongxuongminh/yii2-async](https://github.com/vuongxuongminh/yii2-async) - Provide an easy way to run code asynchronous and parallel for Yii2 application
 - [vuongxuongminh/yii2-mobile-first](https://github.com/vuongxuongminh/yii2-mobile-first) - Support implementing mobile-first principle for Yii2 application.
+- [vuongxuongminh/yii2-js-params](https://github.com/vuongxuongminh/yii2-js-params) - Provide an easy way to passed variables from your server to the JavaScript in rendering process of Yii2 view component.
 
 #### 🔭 Latest releases I've contributed to
 
