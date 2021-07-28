@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/core-bundle](https://github.com/hasura-extra/core-bundle) - Symfony bundle to help handle Hasura action &amp; event. (1 day ago)
+- [hasura-extra/core-bundle](https://github.com/hasura-extra/core-bundle) - Symfony bundle to help handle Hasura action &amp; event. (2 days ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 weeks ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (4 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (4 weeks ago)
