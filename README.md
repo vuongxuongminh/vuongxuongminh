@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (1 day ago)
+- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (2 days ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (1 month ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (1 month ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.0.2](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.0.2), 1 day ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
+- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.0.2](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.0.2), 2 days ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.12.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.12.0), 3 weeks ago) - Server-sent live updates: protocol and reference implementation
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), 1 month ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 1 month ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
