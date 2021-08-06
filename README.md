@@ -37,4 +37,4 @@
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 3 months ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 3 months ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v3.0.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v3.0.1), 3 months ago) - Containerize template for Symfony.
-- [buildkite/charts](https://github.com/buildkite/charts) ([v0.5.2](https://github.com/buildkite/charts/releases/tag/v0.5.2), 4 months ago) - Buildkite Helm Charts repository
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 4 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
