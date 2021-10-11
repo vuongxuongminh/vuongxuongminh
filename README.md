@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.13.0](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.13.0), today) - Server-sent live updates: protocol and reference implementation
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.0.6](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.0.6), 1 week ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.12.2](https://github.com/dunglas/mercure/releases/tag/v0.12.2), 1 month ago) - Server-sent live updates: protocol and reference implementation
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), 3 months ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 3 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 3 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
