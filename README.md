@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (today)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (1 week ago)
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (2 weeks ago)
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 months ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 months ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 months ago)
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) -  (5 months ago)
-- [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (5 months ago)
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) - Containerize template for Laravel. (5 months ago)
+- [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework.  (5 months ago)
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) - Containerize template for Symfony. (5 months ago)
 
 #### 🌱 My latest projects
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), today) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 5 days ago) - Server-sent live updates: protocol and reference implementation
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.0.6](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.0.6), 2 weeks ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.2.1](https://github.com/phpviet/number-to-words/releases/tag/1.2.1), 3 months ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.0.2](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.0.2), 3 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.0.0](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.0.0), 3 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 5 months ago) - Containerize template for Laravel.
