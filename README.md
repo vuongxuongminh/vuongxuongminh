@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 days ago)
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (4 days ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (1 week ago)
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (2 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), 3 days ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), 4 days ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 1 week ago) - Server-sent live updates: protocol and reference implementation
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.0.6](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.0.6), 2 weeks ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
