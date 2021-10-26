@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/metadata](https://github.com/hasura-extra/metadata) - [READ-ONLY] library to help mange Hasura metadata. (1 day ago)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (1 day ago)
-- [hasura-extra/api-client](https://github.com/hasura-extra/api-client) - [READ-ONLY] library provide an api client to interact with Hasura api. (1 day ago)
+- [hasura-extra/metadata](https://github.com/hasura-extra/metadata) - [READ-ONLY] library to help mange Hasura metadata. (2 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (2 days ago)
+- [hasura-extra/api-client](https://github.com/hasura-extra/api-client) - [READ-ONLY] library provide an api client to interact with Hasura api. (2 days ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (1 week ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (2 weeks ago)
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (3 weeks ago)
