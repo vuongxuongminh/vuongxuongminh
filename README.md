@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (2 days ago)
 - [hasura-extra/event-dispatcher](https://github.com/hasura-extra/event-dispatcher) - [READ-ONLY] library to help dispatch events triggered by Hasura via HTTP request. (2 days ago)
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (3 days ago)
@@ -10,7 +11,6 @@
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (2 weeks ago)
 - [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (3 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (4 months ago)
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (4 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (4 months ago)
 
 #### 🌱 My latest projects
