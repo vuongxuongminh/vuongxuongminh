@@ -8,10 +8,10 @@
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (2 days ago)
 - [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (2 days ago)
 - [hasura-extra/event-dispatcher](https://github.com/hasura-extra/event-dispatcher) - [READ-ONLY] PSR-15 server request handle to help dispatch events triggered by Hasura via PSR-14 event dispatcher. (4 days ago)
-- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) - Symfony bundle to help handle Hasura action, event, metadata and more. (5 days ago)
 - [hasura-extra/metadata](https://github.com/hasura-extra/metadata) - [READ-ONLY] library to help mange Hasura metadata. (1 week ago)
 - [hasura-extra/api-client](https://github.com/hasura-extra/api-client) - [READ-ONLY] library provide an api client to interact with Hasura api. (1 week ago)
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (2 weeks ago)
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước. (3 weeks ago)
 
 #### 🌱 My latest projects
 
