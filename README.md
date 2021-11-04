@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (3 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (today)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (4 days ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (5 days ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (5 days ago)
