@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (1 day ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries help you manage Hasura metadata and handle business logic. (today)
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (1 day ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (6 days ago)
 - [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (1 week ago)
