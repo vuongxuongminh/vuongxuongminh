@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
-- [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (3 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 day ago)
+- [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (4 days ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (1 week ago)
 - [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (1 week ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (1 week ago)
@@ -37,4 +37,4 @@
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 6 months ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 6 months ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v3.0.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v3.0.1), 6 months ago) - Containerize template for Symfony.
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 7 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
+- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 8 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
