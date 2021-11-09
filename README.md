@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/helm-charts](https://github.com/hasura-extra/helm-charts) ([hasura-1.0.0](https://github.com/hasura-extra/helm-charts/releases/tag/hasura-1.0.0), today) - [READ-ONLY] Helm charts
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 1 week ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 1 week ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 1 week ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
@@ -37,4 +38,3 @@
 - [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 6 months ago) - Containerize template for Laravel.
 - [phpviet/laravel-number-to-words](https://github.com/phpviet/laravel-number-to-words) ([2.0.1](https://github.com/phpviet/laravel-number-to-words/releases/tag/2.0.1), 6 months ago) - :dizzy: Package hổ trợ tích hợp chuyển đổi số sang chữ số dành riêng cho Laravel framework. 
 - [vuongxuongminh/docker-helm-symfony](https://github.com/vuongxuongminh/docker-helm-symfony) ([v3.0.1](https://github.com/vuongxuongminh/docker-helm-symfony/releases/tag/v3.0.1), 6 months ago) - Containerize template for Symfony.
-- [phpviet/laravel-omnipay](https://github.com/phpviet/laravel-omnipay) ([1.1.2](https://github.com/phpviet/laravel-omnipay/releases/tag/1.1.2), 8 months ago) - :dizzy: Package hổ trợ tích hợp các cổng thanh toán trong nước.
