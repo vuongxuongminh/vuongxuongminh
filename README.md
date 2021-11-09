@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/helm-charts](https://github.com/hasura-extra/helm-charts) - [READ-ONLY] Helm charts (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (4 days ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (1 week ago)
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 week ago)
 - [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (1 week ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (1 week ago)
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 week ago)
 - [hasura-extra/event-dispatcher](https://github.com/hasura-extra/event-dispatcher) - [READ-ONLY] PSR-15 server request handle to help dispatch events triggered by Hasura via PSR-14 event dispatcher. (1 week ago)
-- [hasura-extra/metadata](https://github.com/hasura-extra/metadata) - [READ-ONLY] library to help mange Hasura metadata. (2 weeks ago)
 - [hasura-extra/api-client](https://github.com/hasura-extra/api-client) - [READ-ONLY] library provide an api client to interact with Hasura api. (2 weeks ago)
+- [hasura-extra/metadata](https://github.com/hasura-extra/metadata) - [READ-ONLY] library to help mange Hasura metadata. (2 weeks ago)
+- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/helm-charts](https://github.com/hasura-extra/helm-charts) ([hasura-1.0.0](https://github.com/hasura-extra/helm-charts/releases/tag/hasura-1.0.0), today) - [READ-ONLY] Helm charts
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-1.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-1.0.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 1 week ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 1 week ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 1 week ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
