@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-1.0.1](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-1.0.1), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.0.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 1 week ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 1 week ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 2 weeks ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
