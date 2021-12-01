@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
+- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) -  (today)
 - [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [READ-ONLY] Laravel package to build the modern web APIs with Hasura graphql engine. (3 days ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 days ago)
 - [vuongxuongminh/symfony-hasura](https://github.com/vuongxuongminh/symfony-hasura) -  (1 week ago)
@@ -11,7 +12,6 @@
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (3 weeks ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (1 month ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (1 month ago)
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 month ago)
 
 #### 🌱 My latest projects
 
