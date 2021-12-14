@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.1.1](https://github.com/hasura-extra/hasura-extra/releases/tag/2.1.1), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([v1.0.0](https://github.com/hasura-extra/laravel-app/releases/tag/v1.0.0), 1 week ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v1.0.4](https://github.com/hasura-extra/symfony-app/releases/tag/v1.0.4), 1 week ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.1.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.1.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 1 month ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 1 month ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 1 month ago) - Symfony bundle to help handle Hasura action, event, metadata and more.
