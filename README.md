@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 week ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 week ago)
 - [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [READ-ONLY] Laravel package to build the modern web APIs with Hasura graphql engine. (2 weeks ago)
@@ -28,7 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.1.1](https://github.com/hasura-extra/hasura-extra/releases/tag/2.1.1), 2 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([v1.0.0](https://github.com/hasura-extra/laravel-app/releases/tag/v1.0.0), 1 week ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v1.0.4](https://github.com/hasura-extra/symfony-app/releases/tag/v1.0.4), 1 week ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 1 month ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
@@ -38,3 +37,4 @@
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 2 months ago) - Server-sent live updates: protocol and reference implementation
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symplify/symplify](https://github.com/symplify/symplify) ([9.4.25](https://github.com/symplify/symplify/releases/tag/9.4.25), 4 months ago) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :)
+- [vuongxuongminh/docker-helm-laravel](https://github.com/vuongxuongminh/docker-helm-laravel) ([v2.0.0](https://github.com/vuongxuongminh/docker-helm-laravel/releases/tag/v2.0.0), 7 months ago) - Containerize template for Laravel.
