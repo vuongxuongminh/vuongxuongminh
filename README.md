@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (2 days ago)
-- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (2 days ago)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 days ago)
+- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 days ago)
+- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (3 days ago)
 - [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [READ-ONLY] Laravel package to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :) (1 month ago)
 - [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (2 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 2 days ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
-- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 2 days ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.3.0), 2 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 3 days ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 3 days ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.3.0), 3 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 2 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 2 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 2 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
