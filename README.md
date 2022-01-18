@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (3 days ago)
+- [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (4 days ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 week ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 week ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 week ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.17.1](https://github.com/spawnia/sailor/releases/tag/v0.17.1), 3 days ago) - A typesafe GraphQL client for PHP
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.17.1](https://github.com/spawnia/sailor/releases/tag/v0.17.1), 4 days ago) - A typesafe GraphQL client for PHP
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 1 week ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 1 week ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.3.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
