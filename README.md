@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (3 days ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (4 days ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (3 weeks ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [READ-ONLY] Laravel package to build the modern web APIs with Hasura graphql engine. (2 months ago)
 - [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :) (2 months ago)
-- [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (2 months ago)
+- [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (3 months ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (3 months ago)
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.2.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.2.0), 4 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.2.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.2.0), 5 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.18.1](https://github.com/spawnia/sailor/releases/tag/v0.18.1), 1 week ago) - A typesafe GraphQL client for PHP
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 1 month ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 1 month ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 3 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
