@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.18.2](https://github.com/spawnia/sailor/releases/tag/v0.18.2), 1 day ago) - A typesafe GraphQL client for PHP
+- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.18.2](https://github.com/spawnia/sailor/releases/tag/v0.18.2), 2 days ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.2.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.2.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 1 month ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 1 month ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
