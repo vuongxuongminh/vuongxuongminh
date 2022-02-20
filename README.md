@@ -11,7 +11,7 @@
 - [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (3 months ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (3 months ago)
-- [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar. (3 months ago)
+- [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (3 months ago)
 
 #### 🌱 My latest projects
 
