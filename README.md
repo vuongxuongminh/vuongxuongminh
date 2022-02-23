@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (5 days ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (1 month ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 month ago)
@@ -11,7 +12,6 @@
 - [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/graphqlite-bridge](https://github.com/hasura-extra/graphqlite-bridge) - [READ-ONLY] Provide integration for GraphQLite with Hasura Extra packages. (3 months ago)
 - [hasura-extra/auth-hook](https://github.com/hasura-extra/auth-hook) - [READ-ONLY] PSR-15 server request handle Hasura webhook authentication. (3 months ago)
-- [hasura-extra/sailor-bridge](https://github.com/hasura-extra/sailor-bridge) - [READ-ONLY] Provide integration for Sailor graphql client with Hasura Extra packages. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.5.10](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.5.10), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 2 days ago) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :)
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.18.2](https://github.com/spawnia/sailor/releases/tag/v0.18.2), 1 week ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.2.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.2.0), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
@@ -37,4 +38,3 @@
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 3 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 3 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), 4 months ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.13.0](https://github.com/dunglas/mercure/releases/tag/v0.13.0), 4 months ago) - Server-sent live updates: protocol and reference implementation
