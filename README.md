@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (today)
+- [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (1 day ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (1 month ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (3 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.0), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.0](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.0), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.20.2](https://github.com/spawnia/sailor/releases/tag/v0.20.2), 1 week ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.4.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 2 months ago) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :)
@@ -36,5 +36,5 @@
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 3 months ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 5 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 5 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
-- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 5 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
+- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 6 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
 - [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), 6 months ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
