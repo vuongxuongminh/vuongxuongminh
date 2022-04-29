@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([v1.0.0](https://github.com/gbox-proxy/gbox/releases/tag/v1.0.0), today) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.21.0](https://github.com/spawnia/sailor/releases/tag/v0.21.0), 3 days ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.4.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
@@ -37,4 +38,3 @@
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 6 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 6 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
 - [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 6 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
-- [phpviet/number-to-words](https://github.com/phpviet/number-to-words) ([1.3.0](https://github.com/phpviet/number-to-words/releases/tag/1.3.0), 6 months ago) - :zap: Thư viện hổ trợ chuyển đổi số sang chữ số Tiếng Việt.
