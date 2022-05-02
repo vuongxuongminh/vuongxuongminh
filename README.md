@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document website (today)
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (3 months ago)
-- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
+- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [READ-ONLY] Laravel package to build the modern web APIs with Hasura graphql engine. (5 months ago)
 - [symplify/symplify](https://github.com/symplify/symplify) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :) (5 months ago)
-- [hasura-extra/bundle](https://github.com/hasura-extra/bundle) - [READ-ONLY] Symfony bundle to build the modern web APIs with Hasura graphql engine. (5 months ago)
 
 #### 🌱 My latest projects
 
