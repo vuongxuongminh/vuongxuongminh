@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.3.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.2](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.2), 6 days ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.21.0](https://github.com/spawnia/sailor/releases/tag/v0.21.0), 2 weeks ago) - A typesafe GraphQL client for PHP
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/2.4.0), 2 months ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 2 months ago) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 4 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 4 months ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
