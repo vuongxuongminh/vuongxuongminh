@@ -6,7 +6,7 @@
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 weeks ago)
 - [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document :notebook: website. (2 weeks ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (2 months ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (2 months ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (3 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (4 months ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (4 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (4 months ago)
@@ -37,4 +37,4 @@
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 4 months ago) - Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 6 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 6 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
-- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 6 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
+- [hasura-extra/hasura-bundle](https://github.com/hasura-extra/hasura-bundle) ([v1.1.0](https://github.com/hasura-extra/hasura-bundle/releases/tag/v1.1.0), 7 months ago) - [DEPRECATED -- Use hasura-extra/bundle instead] Symfony bundle to help handle Hasura action, event, metadata and more.
