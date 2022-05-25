@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 1 week ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.3.0), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.21.0](https://github.com/spawnia/sailor/releases/tag/v0.21.0), 4 weeks ago) - A typesafe GraphQL client for PHP
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 3 months ago) - Do you use Symfony, Coding Standards, maintain PHP packages, monorepo, local packages, static websites and most importantly... are you extreemely lazy? You&#39;ll love the candies you find here! :)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 4 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
