@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.4), 1 day ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([2.0.0rc2](https://github.com/apache/superset/releases/tag/2.0.0rc2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.21.2](https://github.com/spawnia/sailor/releases/tag/v0.21.2), 5 days ago) - A typesafe GraphQL client for PHP
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 1 month ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
