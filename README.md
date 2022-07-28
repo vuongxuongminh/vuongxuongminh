@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.0.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.6), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.4.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.4.0), 3 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.22.0](https://github.com/spawnia/sailor/releases/tag/v0.22.0), 3 weeks ago) - A typesafe GraphQL client for PHP
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 2 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 2 months ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
