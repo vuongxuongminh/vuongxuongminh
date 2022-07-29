@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 day ago)
 - [covatech/covatech](https://github.com/covatech/covatech) -  (5 days ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (2 months ago)
@@ -9,9 +10,8 @@
 - [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document :notebook: website. (2 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (5 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (6 months ago)
-- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (6 months ago)
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - [DEPRECATED] Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (6 months ago)
-- [hasura-extra/laravel](https://github.com/hasura-extra/laravel) - [DEPRECATED] Laravel package to build the modern web APIs with Hasura graphql engine. (8 months ago)
+- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), today) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.0.0), 1 day ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.6.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.6.6), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.22.0](https://github.com/spawnia/sailor/releases/tag/v0.22.0), 3 weeks ago) - A typesafe GraphQL client for PHP
@@ -36,5 +37,4 @@
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 5 months ago) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You&#39;ll love the toolkits here! :)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([1.2.0](https://github.com/hasura-extra/symfony-app/releases/tag/1.2.0), 6 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) ([1.2.0](https://github.com/hasura-extra/laravel-app/releases/tag/1.2.0), 6 months ago) - [DEPRECATED] Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v1.1.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v1.1.0), 9 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [php-istio/jwt-payload-extractor](https://github.com/php-istio/jwt-payload-extractor) ([v1.1.1](https://github.com/php-istio/jwt-payload-extractor/releases/tag/v1.1.1), 9 months ago) - The library help to extract trusted JWT payload from request forwarded by Istio sidecar.
