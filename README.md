@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.1), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.1), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.23.0](https://github.com/spawnia/sailor/releases/tag/v0.23.0), 1 week ago) - A typesafe GraphQL client for PHP
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 2 weeks ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.0.0), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
