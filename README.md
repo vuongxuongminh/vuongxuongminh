@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) -  (today)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (3 weeks ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 weeks ago)
 - [covatech/covatech](https://github.com/covatech/covatech) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (6 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (7 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (7 months ago)
-- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - [DEPRECATED] Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (7 months ago)
 
 #### 🌱 My latest projects
 
