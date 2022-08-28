@@ -11,7 +11,7 @@
 - [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document :notebook: website. (3 months ago)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (6 months ago)
 - [spawnia/sailor](https://github.com/spawnia/sailor) - A typesafe GraphQL client for PHP (7 months ago)
-- [hasura-extra/laravel-app](https://github.com/hasura-extra/laravel-app) - [DEPRECATED] Laravel application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (7 months ago)
+- [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (7 months ago)
 
 #### 🌱 My latest projects
 
