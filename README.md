@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.2](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.2), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.23.1](https://github.com/spawnia/sailor/releases/tag/v0.23.1), 1 week ago) - A typesafe GraphQL client for PHP
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.1](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.1), 3 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 1 month ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.0.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 3 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
