@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - Building blocks screens, access control and refresh notifiers base on Go Router :muscle: (2 days ago)
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (2 days ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 month ago)
 - [covatech/covatech](https://github.com/covatech/covatech) -  (1 month ago)
@@ -15,7 +15,7 @@
 
 #### 🌱 My latest projects
 
-- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - Building blocks screens, access control and refresh notifiers base on Go Router :muscle:
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [vuongxuongminh/flutter_illumination](https://github.com/vuongxuongminh/flutter_illumination) - 
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
