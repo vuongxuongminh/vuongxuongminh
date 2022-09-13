@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (1 week ago)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 month ago)
 - [covatech/covatech](https://github.com/covatech/covatech) -  (1 month ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (3 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.5.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.5.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [apache/superset](https://github.com/apache/superset) ([1.5.2rc2](https://github.com/apache/superset/releases/tag/1.5.2rc2), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.23.1](https://github.com/spawnia/sailor/releases/tag/v0.23.1), 3 weeks ago) - A typesafe GraphQL client for PHP
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 1 month ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.0.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 3 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 4 months ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
 - [symplify/symplify](https://github.com/symplify/symplify) ([10.1.0](https://github.com/symplify/symplify/releases/tag/10.1.0), 6 months ago) - Do you use Symfony, coding standards, PHPStan rule, maintain PHP packages, monorepo... and do you like to be lazy? You&#39;ll love the toolkits here! :)
