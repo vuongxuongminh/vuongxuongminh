@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.0](https://github.com/spawnia/sailor/releases/tag/v0.26.0), 2 days ago) - A typesafe GraphQL client for PHP
+- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.0](https://github.com/spawnia/sailor/releases/tag/v0.26.0), 3 days ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.2.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.2.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [apache/superset](https://github.com/apache/superset) ([2.0.1rc1](https://github.com/apache/superset/releases/tag/2.0.1rc1), 2 weeks ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 1 month ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
