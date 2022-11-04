@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.6), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.8.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.8.0), 6 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
-- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.0](https://github.com/spawnia/sailor/releases/tag/v0.26.0), 1 week ago) - A typesafe GraphQL client for PHP
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.6](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.6), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.8.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.8.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.0](https://github.com/spawnia/sailor/releases/tag/v0.26.0), 2 weeks ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 1 month ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 3 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 5 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
