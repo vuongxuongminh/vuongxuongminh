@@ -7,7 +7,7 @@
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (1 month ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (3 months ago)
-- [covatech/covatech](https://github.com/covatech/covatech) -  (3 months ago)
+- [huyta888/covatech](https://github.com/huyta888/covatech) -  (3 months ago)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (5 months ago)
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (6 months ago)
 - [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document :notebook: website. (6 months ago)
