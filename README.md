@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.9.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.9.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.1](https://github.com/spawnia/sailor/releases/tag/v0.26.1), 1 week ago) - A typesafe GraphQL client for PHP
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.7.7](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.7.7), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.8.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.8.0), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 2 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 3 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 5 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
