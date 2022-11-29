@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([2.0.1rc4](https://github.com/apache/superset/releases/tag/2.0.1rc4), 5 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([2.0.1rc4](https://github.com/apache/superset/releases/tag/2.0.1rc4), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.9.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.9.0), 1 week ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.26.1](https://github.com/spawnia/sailor/releases/tag/v0.26.1), 2 weeks ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 2 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
