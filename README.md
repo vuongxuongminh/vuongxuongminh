@@ -4,7 +4,7 @@
 
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (2 weeks ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (3 weeks ago)
-- [hasura-extra/graphql-scalars](https://github.com/hasura-extra/graphql-scalars) - [READ-ONLY] Provides graphql scalar types to compatible with Hasura graphql engine. (3 weeks ago)
+- [hasura-extra/graphql-scalars](https://github.com/hasura-extra/graphql-scalars) - [READ-ONLY] Provides graphql scalar types to compatible with Hasura graphql engine. (4 weeks ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (2 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (3 months ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (5 months ago)
@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.27.0](https://github.com/spawnia/sailor/releases/tag/v0.27.0), today) - A typesafe GraphQL client for PHP
-- [apache/superset](https://github.com/apache/superset) ([1.5.3rc1](https://github.com/apache/superset/releases/tag/1.5.3rc1), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 3 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.27.0](https://github.com/spawnia/sailor/releases/tag/v0.27.0), 1 day ago) - A typesafe GraphQL client for PHP
+- [apache/superset](https://github.com/apache/superset) ([1.5.3rc1](https://github.com/apache/superset/releases/tag/1.5.3rc1), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 4 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 3 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 5 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 7 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
