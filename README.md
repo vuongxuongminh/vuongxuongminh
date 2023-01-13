@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), today) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [apache/superset](https://github.com/apache/superset) ([1.5.3](https://github.com/apache/superset/releases/tag/1.5.3), today) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [spawnia/sailor](https://github.com/spawnia/sailor) ([v0.27.0](https://github.com/spawnia/sailor/releases/tag/v0.27.0), 2 days ago) - A typesafe GraphQL client for PHP
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 4 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
