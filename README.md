@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (6 days ago)
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (1 week ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 - [hasura-extra/graphql-scalars](https://github.com/hasura-extra/graphql-scalars) - [READ-ONLY] Provides graphql scalar types to compatible with Hasura graphql engine. (1 month ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (3 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (4 months ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (5 months ago)
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (7 months ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (8 months ago)
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (8 months ago)
 - [gbox-proxy/gbox-proxy.github.io](https://github.com/gbox-proxy/gbox-proxy.github.io) - GBox document :notebook: website. (8 months ago)
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (10 months ago)
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.3), 6 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), 6 days ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.3](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.3), 1 week ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), 1 week ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 4 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 5 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 7 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 8 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 8 months ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
