@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.4), 2 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.4), 3 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), 1 week ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 4 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
