@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([3.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/3.0.0), today) - Package provide simple way to run code asynchronously for your Laravel application.
 - [apache/superset](https://github.com/apache/superset) ([superset-helm-chart-0.8.4](https://github.com/apache/superset/releases/tag/superset-helm-chart-0.8.4), 4 days ago) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), 2 weeks ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 4 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) ([v2.0.0](https://github.com/php-istio/jwt-authentication-bundle/releases/tag/v2.0.0), 6 months ago) - Symfony bundle help to authenticate request forwarded by Istio sidecar.
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([2.2.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/2.2.0), 8 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) ([helm-chart-1.0.5](https://github.com/gbox-proxy/gbox/releases/tag/helm-chart-1.0.5), 8 months ago) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring.
