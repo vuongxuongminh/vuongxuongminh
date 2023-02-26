@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [covalab/robusta](https://github.com/covalab/robusta) -  (5 days ago)
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (4 weeks ago)
+- [covalab/robusta](https://github.com/covalab/robusta) -  (6 days ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 month ago)
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (1 month ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 months ago)
 - [hasura-extra/graphql-scalars](https://github.com/hasura-extra/graphql-scalars) - [READ-ONLY] Provides graphql scalar types to compatible with Hasura graphql engine. (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([3.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/3.0.0), 4 weeks ago) - Package provide simple way to run code asynchronously for your Laravel application.
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([3.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/3.0.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([2.1.0](https://github.com/vuongxuongminh/go_router_plus/releases/tag/2.1.0), 1 month ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([3.3.0](https://github.com/hasura-extra/hasura-extra/releases/tag/3.3.0), 2 months ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) ([v2.0.0](https://github.com/hasura-extra/symfony-app/releases/tag/v2.0.0), 5 months ago) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine.
