@@ -10,7 +10,6 @@
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (7 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (8 months ago)
 - [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (9 months ago)
-- [gbox-proxy/gbox](https://github.com/gbox-proxy/gbox) - Fast :zap: reverse proxy in front of any GraphQL server for caching, securing and monitoring. (1 year ago)
 
 #### 🌱 My latest projects
 
