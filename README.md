@@ -13,6 +13,7 @@
 
 #### 🌱 My latest projects
 
+- [vuongxuongminh/caddy-gotify](https://github.com/vuongxuongminh/caddy-gotify) - 
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 - [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
@@ -22,7 +23,6 @@
 - [vuongxuongminh/laravel-mobile-first](https://github.com/vuongxuongminh/laravel-mobile-first) - Package support implementing mobile-first principle for your Laravel application. 
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application.
 - [vuongxuongminh/yii2-async](https://github.com/vuongxuongminh/yii2-async) - Provide an easy way to run code asynchronous and parallel for Yii2 application
-- [vuongxuongminh/yii2-mobile-first](https://github.com/vuongxuongminh/yii2-mobile-first) - Support implementing mobile-first principle for Yii2 application.
 
 #### 🔭 Latest releases I've contributed to
 
