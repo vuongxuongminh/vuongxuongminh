@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 day ago)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 weeks ago)
 - [covalab/robusta](https://github.com/covalab/robusta) - The robust framework for Flutter/Dart. (3 weeks ago)
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router (2 months ago)
@@ -26,6 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.15.3](https://github.com/doctrine/orm/releases/tag/2.15.3), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.11.1](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.11.1), 2 weeks ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) ([v4.1.1](https://github.com/vuongxuongminh/go_router_plus/releases/tag/v4.1.1), 2 months ago) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([3.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/3.0.0), 5 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
