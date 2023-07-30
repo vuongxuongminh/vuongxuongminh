@@ -10,7 +10,6 @@
 - [hasura-extra/graphql-scalars](https://github.com/hasura-extra/graphql-scalars) - [READ-ONLY] Provides graphql scalar types to compatible with Hasura graphql engine. (7 months ago)
 - [thecodingmachine/docker-images-php](https://github.com/thecodingmachine/docker-images-php) - A set of PHP Docker images (9 months ago)
 - [hasura-extra/symfony-app](https://github.com/hasura-extra/symfony-app) - Symfony application template (boilerplate) to build the modern web APIs with Hasura graphql engine. (10 months ago)
-- [php-istio/jwt-authentication-bundle](https://github.com/php-istio/jwt-authentication-bundle) - Symfony bundle help to authenticate request forwarded by Istio sidecar. (1 year ago)
 
 #### 🌱 My latest projects
 
