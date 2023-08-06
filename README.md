@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (2 weeks ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (3 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 month ago)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([4.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/4.0.0), 2 weeks ago) - Package provide simple way to run code asynchronously for your Laravel application.
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.11.1](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.11.1), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.16.0](https://github.com/doctrine/orm/releases/tag/2.16.0), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([4.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/4.0.0), 3 weeks ago) - Package provide simple way to run code asynchronously for your Laravel application.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-2.11.1](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-2.11.1), 2 months ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
