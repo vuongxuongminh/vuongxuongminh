@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 day ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (today)
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (3 months ago)
 
@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([4.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/4.0.0), 1 day ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-3.0.0), today) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v4.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v4.1.0), 1 week ago) - Package provide simple way to run code asynchronously for your Laravel application.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.16.2](https://github.com/doctrine/orm/releases/tag/2.16.2), 1 month ago) - Doctrine Object Relational Mapper (ORM)
