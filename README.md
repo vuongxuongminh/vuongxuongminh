@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (5 days ago)
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (1 week ago)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (6 days ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (3 months ago)
 
 #### 🌱 My latest projects
@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-3.0.0), 5 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v4.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v4.1.0), 1 week ago) - Package provide simple way to run code asynchronously for your Laravel application.
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-3.0.0), 6 days ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v4.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v4.1.0), 2 weeks ago) - Package provide simple way to run code asynchronously for your Laravel application.
