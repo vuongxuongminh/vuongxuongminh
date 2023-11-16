@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta1](https://github.com/doctrine/orm/releases/tag/3.0.0-beta1), 1 month ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0-beta2](https://github.com/doctrine/orm/releases/tag/3.0.0-beta2), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) ([helm-chart-3.0.0](https://github.com/hasura-extra/hasura-extra/releases/tag/helm-chart-3.0.0), 1 month ago) - PHP libraries to build the modern web APIs with Hasura graphql engine.
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v4.1.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v4.1.0), 1 month ago) - Package provide simple way to run code asynchronously for your Laravel application.
