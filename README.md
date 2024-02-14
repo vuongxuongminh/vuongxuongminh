@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building schema over HTTP (aka remote schema) (today)
 - [x-graphql/schema-executor](https://github.com/x-graphql/schema-executor) - Providing abstract layer for executing GraphQL schema (today)
 - [x-graphql/utils](https://github.com/x-graphql/utils) - Utilities for working with GraphQL (1 day ago)
-- [hasura-extra/hasura-extra](https://github.com/hasura-extra/hasura-extra) - PHP libraries to build the modern web APIs with Hasura graphql engine. (1 month ago)
 
 #### 🌱 My latest projects
 
