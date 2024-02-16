@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [x-graphql/schema-executor](https://github.com/x-graphql/schema-executor) ([0.1](https://github.com/x-graphql/schema-executor/releases/tag/0.1), today) - Providing abstract layer for executing GraphQL schema
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.1](https://github.com/x-graphql/http-schema/releases/tag/0.1), today) - Building GraphQL schema over HTTP (aka remote schema)
 - [x-graphql/utils](https://github.com/x-graphql/utils) ([0.1](https://github.com/x-graphql/utils/releases/tag/0.1), 2 days ago) - Utilities for working with GraphQL
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.0](https://github.com/doctrine/orm/releases/tag/3.0.0), 1 week ago) - Doctrine Object Relational Mapper (ORM)
