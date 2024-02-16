@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building schema over HTTP (aka remote schema) (2 days ago)
+- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building schema over HTTP (aka remote schema) (today)
 - [x-graphql/schema-executor](https://github.com/x-graphql/schema-executor) - Providing abstract layer for executing GraphQL schema (2 days ago)
 - [x-graphql/utils](https://github.com/x-graphql/utils) - Utilities for working with GraphQL (3 days ago)
 
