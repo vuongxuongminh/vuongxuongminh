@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) ([0.2](https://github.com/x-graphql/delegate-execution/releases/tag/0.2), today) - Support to delegate execution of GraphQL schema
 - [x-graphql/schema-executor](https://github.com/x-graphql/schema-executor) ([0.1](https://github.com/x-graphql/schema-executor/releases/tag/0.1), 2 days ago) - Providing abstract layer for executing GraphQL schema
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.1](https://github.com/x-graphql/http-schema/releases/tag/0.1), 2 days ago) - Building GraphQL schema over HTTP (aka remote schema)
-- [x-graphql/utils](https://github.com/x-graphql/utils) ([0.1](https://github.com/x-graphql/utils/releases/tag/0.1), 4 days ago) - Utilities for working with GraphQL
