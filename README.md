@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to delegate execution of GraphQL schema (today)
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (2 days ago)
 - [x-graphql/schema-executor](https://github.com/x-graphql/schema-executor) - Providing abstract layer for executing GraphQL schema (4 days ago)
-- [x-graphql/utils](https://github.com/x-graphql/utils) - Utilities for working with GraphQL (5 days ago)
 
 #### 🌱 My latest projects
 
