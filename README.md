@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.18.1](https://github.com/doctrine/orm/releases/tag/2.18.1), today) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.0.1](https://github.com/doctrine/orm/releases/tag/3.0.1), today) - Doctrine Object Relational Mapper (ORM)
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.2.1](https://github.com/x-graphql/http-schema/releases/tag/0.2.1), today) - Building GraphQL schema over HTTP (aka remote schema)
 - [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) ([0.4.1](https://github.com/x-graphql/delegate-execution/releases/tag/0.4.1), today) - Support to delegate execution of GraphQL schema
