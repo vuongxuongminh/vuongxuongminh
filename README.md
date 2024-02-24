@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Support to transform and enhance GraphQL schema (1 day ago)
+- [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (today)
 - [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to delegate execution of GraphQL schema (1 day ago)
 - [x-graphql/utils](https://github.com/x-graphql/utils) - Utilities for working with GraphQL (2 days ago)
 
