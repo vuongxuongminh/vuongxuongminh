@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to delegate execution of GraphQL schema (today)
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Merge all GraphQL schemas into one and add relationships for them (today)
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (1 day ago)
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (3 days ago)
 
 #### 🌱 My latest projects
 
