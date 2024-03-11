@@ -8,9 +8,9 @@
 
 #### 🌱 My latest projects
 
-- [vuongxuongminh/graphql-middleware](https://github.com/vuongxuongminh/graphql-middleware) - GraphQL field middleware
 - [vuongxuongminh/prisma-graphql-schema](https://github.com/vuongxuongminh/prisma-graphql-schema) - GraphQL schema for Prisma
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
+- [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
 
 #### 🔭 Latest releases I've contributed to
 
