@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), today) - Doctrine Object Relational Mapper (ORM)
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) ([0.2.0](https://github.com/x-graphql/schema-transformer/releases/tag/0.2.0), 1 day ago) - Transform SDL and enhance query execution of GraphQL schema
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.6.0](https://github.com/x-graphql/http-schema/releases/tag/0.6.0), 3 days ago) - Building GraphQL schema over HTTP (aka remote schema)
-- [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) ([0.7.0](https://github.com/x-graphql/delegate-execution/releases/tag/0.7.0), 4 days ago) - Support to use delegator to execute GraphQL schema
