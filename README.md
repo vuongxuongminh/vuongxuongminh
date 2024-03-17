@@ -4,7 +4,7 @@
 
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (1 day ago)
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (3 days ago)
-- [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to use delegator to execute GraphQL schema (5 days ago)
+- [x-graphql/delegate](https://github.com/x-graphql/delegate) - Delegate GraphQL query execution (5 days ago)
 
 #### 🌱 My latest projects
 
