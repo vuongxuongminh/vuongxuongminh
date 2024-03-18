@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.1.0](https://github.com/x-graphql/schema-gateway/releases/tag/0.1.0), today) - Support to merge all GraphQL schemas into one and add relationships
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) ([0.3.0](https://github.com/x-graphql/schema-transformer/releases/tag/0.3.0), today) - Transform SDL and enhance query execution of GraphQL schema
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.19.1](https://github.com/doctrine/orm/releases/tag/2.19.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.6.0](https://github.com/x-graphql/http-schema/releases/tag/0.6.0), 5 days ago) - Building GraphQL schema over HTTP (aka remote schema)
