@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) - Adding custom logics before and after call field resolver (1 day ago)
+- [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) - Adding custom logics before and after when resolving fields (today)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (2 days ago)
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (2 days ago)
 
