@@ -4,7 +4,7 @@
 
 - [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) - Adding custom logics before and after when resolving fields (today)
 - [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to use delegator to execute GraphQL schema (today)
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (2 days ago)
+- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (today)
 
 #### 🌱 My latest projects
 
