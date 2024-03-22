@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [x-graphql/codegen](https://github.com/x-graphql/codegen) - Generate PHP code for executing query from GraphQL (today)
 - [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) - Adding custom logics before and after when resolving fields (2 days ago)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (2 days ago)
-- [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (2 days ago)
 
 #### 🌱 My latest projects
 
