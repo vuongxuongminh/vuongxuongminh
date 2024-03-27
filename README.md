@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [x-graphql/codegen](https://github.com/x-graphql/codegen) ([0.1.0](https://github.com/x-graphql/codegen/releases/tag/0.1.0), today) - Generate PHP code for executing GraphQL
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.1.1](https://github.com/doctrine/orm/releases/tag/3.1.1), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 - [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) ([0.1.0](https://github.com/x-graphql/field-middleware/releases/tag/0.1.0), 1 week ago) - Adding custom logics before and after when resolving fields
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.7.0](https://github.com/x-graphql/http-schema/releases/tag/0.7.0), 1 week ago) - Building GraphQL schema over HTTP (aka remote schema)
