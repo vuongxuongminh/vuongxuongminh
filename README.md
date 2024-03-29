@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [x-graphql/field-middleware](https://github.com/x-graphql/field-middleware) - Adding custom logics before and after when resolving fields (today)
+- [x-graphql/schema-cache](https://github.com/x-graphql/schema-cache) - Caching GraphQL schema with PSR-16 (today)
 - [x-graphql/delegate-execution](https://github.com/x-graphql/delegate-execution) - Support to use delegator to execute GraphQL schema (today)
-- [x-graphql/codegen](https://github.com/x-graphql/codegen) - Generate PHP code for executing GraphQL (2 days ago)
 
 #### 🌱 My latest projects
 
