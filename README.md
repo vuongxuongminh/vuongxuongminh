@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.8.2](https://github.com/x-graphql/http-schema/releases/tag/0.8.2), today) - Building GraphQL schema over HTTP (aka remote schema)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.1](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.1), today) - Support to merge all GraphQL schemas into one and add relationships
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) ([0.4.1](https://github.com/x-graphql/schema-transformer/releases/tag/0.4.1), today) - Transform SDL and enhance query execution of GraphQL schema
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) ([0.8.1](https://github.com/x-graphql/http-schema/releases/tag/0.8.1), today) - Building GraphQL schema over HTTP (aka remote schema)
