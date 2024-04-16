@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (6 days ago)
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (1 week ago)
 - [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (1 week ago)
+- [x-graphql/schema-cache](https://github.com/x-graphql/schema-cache) - Caching GraphQL schema with PSR-16 (1 week ago)
 
 #### 🌱 My latest projects
 
