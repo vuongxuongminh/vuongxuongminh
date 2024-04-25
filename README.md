@@ -4,7 +4,7 @@
 
 - [x-graphql/field-guard](https://github.com/x-graphql/field-guard) - Adding security layer to GraphQL schema (1 week ago)
 - [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (2 weeks ago)
-- [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (2 weeks ago)
+- [x-graphql/schema-transformer](https://github.com/x-graphql/schema-transformer) - Transform SDL and enhance query execution of GraphQL schema (3 weeks ago)
 
 #### 🌱 My latest projects
 
