@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.19.5](https://github.com/doctrine/orm/releases/tag/2.19.5), today) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.1.3](https://github.com/doctrine/orm/releases/tag/3.1.3), today) - Doctrine Object Relational Mapper (ORM)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 2 days ago) - Support to merge all GraphQL schemas into one and add relationships
 - [x-graphql/field-guard](https://github.com/x-graphql/field-guard) ([0.2.0](https://github.com/x-graphql/field-guard/releases/tag/0.2.0), 1 week ago) - Adding security layer to GraphQL schema
