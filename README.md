@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript (today)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (1 week ago)
 - [x-graphql/field-guard](https://github.com/x-graphql/field-guard) - Adding security layer to GraphQL schema (2 weeks ago)
-- [x-graphql/http-schema](https://github.com/x-graphql/http-schema) - Building GraphQL schema over HTTP (aka remote schema) (3 weeks ago)
 
 #### 🌱 My latest projects
 
