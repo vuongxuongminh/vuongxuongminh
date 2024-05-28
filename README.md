@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript (2 weeks ago)
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (4 weeks ago)
+- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript (3 weeks ago)
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (1 month ago)
 - [x-graphql/field-guard](https://github.com/x-graphql/field-guard) - Adding security layer to GraphQL schema (1 month ago)
 
 #### 🌱 My latest projects
@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), 4 days ago) - Doctrine Object Relational Mapper (ORM)
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 4 weeks ago) - Support to merge all GraphQL schemas into one and add relationships
+- [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), 5 days ago) - Doctrine Object Relational Mapper (ORM)
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 1 month ago) - Support to merge all GraphQL schemas into one and add relationships
 - [x-graphql/field-guard](https://github.com/x-graphql/field-guard) ([0.2.0](https://github.com/x-graphql/field-guard/releases/tag/0.2.0), 1 month ago) - Adding security layer to GraphQL schema
