@@ -14,6 +14,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) ([v15.12.3](https://github.com/webonyx/graphql-php/releases/tag/v15.12.3), today) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
+- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) ([v15.12.3](https://github.com/webonyx/graphql-php/releases/tag/v15.12.3), 1 day ago) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.2.0](https://github.com/doctrine/orm/releases/tag/3.2.0), 3 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 1 month ago) - Support to merge all GraphQL schemas into one and add relationships
