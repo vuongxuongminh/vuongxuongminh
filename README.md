@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (4 months ago)
+- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) - Package provide simple way to run code asynchronously for your Laravel application. (5 months ago)
 - [webonyx/graphql-php](https://github.com/webonyx/graphql-php) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript (6 months ago)
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (6 months ago)
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) - Support to merge all GraphQL schemas into one and add relationships (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -16,4 +16,4 @@
 
 - [webonyx/graphql-php](https://github.com/webonyx/graphql-php) ([v15.18.1](https://github.com/webonyx/graphql-php/releases/tag/v15.18.1), 1 week ago) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v5.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v5.0.0), 4 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
-- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 6 months ago) - Support to merge all GraphQL schemas into one and add relationships
+- [x-graphql/schema-gateway](https://github.com/x-graphql/schema-gateway) ([0.2.3](https://github.com/x-graphql/schema-gateway/releases/tag/0.2.3), 7 months ago) - Support to merge all GraphQL schemas into one and add relationships
