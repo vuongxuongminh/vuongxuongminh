@@ -8,9 +8,9 @@
 
 #### 🌱 My latest projects
 
+- [vuongxuongminh/php-fpm-exporter](https://github.com/vuongxuongminh/php-fpm-exporter) - Prometheus exporter for PHP-FPM 
 - [vuongxuongminh/go_router_plus](https://github.com/vuongxuongminh/go_router_plus) - :office: Building blocks screens, access control and refresh notifiers base on Go Router
 - [vuongxuongminh/onboard-210510](https://github.com/vuongxuongminh/onboard-210510) - 
-- [vuongxuongminh/docker-helm-yii](https://github.com/vuongxuongminh/docker-helm-yii) - Containerize template for Yii.
 
 #### 🔭 Latest releases I've contributed to
 
