@@ -13,5 +13,4 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [webonyx/graphql-php](https://github.com/webonyx/graphql-php) ([v15.20.0](https://github.com/webonyx/graphql-php/releases/tag/v15.20.0), 1 month ago) - PHP implementation of the GraphQL specification based on the reference implementation in JavaScript
 - [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v5.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v5.0.0), 10 months ago) - Package provide simple way to run code asynchronously for your Laravel application.
