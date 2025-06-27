@@ -12,4 +12,3 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vuongxuongminh/laravel-async](https://github.com/vuongxuongminh/laravel-async) ([v5.0.0](https://github.com/vuongxuongminh/laravel-async/releases/tag/v5.0.0), 1 year ago) - Package provide simple way to run code asynchronously for your Laravel application.
