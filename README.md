@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [vuongxuongminh/graphqlite-rs](https://github.com/vuongxuongminh/graphqlite-rs) - ⚡Blazing-fast, open-source Rust tool to turn your SQLite into a GraphQL API in seconds. (4 days ago)
+- [vuongxuongminh/graphqlite-rs](https://github.com/vuongxuongminh/graphqlite-rs) - ⚡Blazing-fast, open-source Rust tool to turn your SQLite into a GraphQL API in seconds. (5 days ago)
 
 #### 🌱 My latest projects
 
